@@ -1,5 +1,5 @@
 #Requires -Version 3.0
-
+#test
 Param(
     [string] [Parameter(Mandatory=$true)] $ResourceGroupLocation,
     [string] $ResourceGroupName = 'homework1',
